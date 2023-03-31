@@ -1,6 +1,6 @@
 Name:		texlive-rerunfilecheck
 Version:	63869
-Release:	1
+Release:	2
 Summary:	Checksum based rerun checks on auxiliary files
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/rerunfilecheck
