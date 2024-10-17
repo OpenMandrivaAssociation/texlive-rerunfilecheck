@@ -3,7 +3,7 @@ Version:	63869
 Release:	2
 Summary:	Checksum based rerun checks on auxiliary files
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/rerunfilecheck
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/rerunfilecheck
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/rerunfilecheck.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/rerunfilecheck.doc.r%{version}.tar.xz
